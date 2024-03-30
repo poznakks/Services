@@ -11,7 +11,7 @@ import SwiftUI
 struct ServicesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ServicesView()
         }
     }
 }
